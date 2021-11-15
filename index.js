@@ -6,7 +6,7 @@ const { argv } = require('process');
  */
 function getArgv(){
 	const obj = {};
-	const regExp = /--(\w+)=(\w+)/;
+	const regExp = /--(.+)=(.+)/;
 	argv.forEach((val) => {
 			let match = val.match(regExp);
 			if(match){
