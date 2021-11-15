@@ -36,7 +36,7 @@ console.log('obj', obj)
 
 ```javascript
 Inject arguments:
-node start xxx.js -- --port=5005 --name=lucas
+node xxx.js -- --port=5005 --name=lucas
 
 Get arguments:
 const { getArgv } = require('pm2-node-argv')
@@ -61,5 +61,5 @@ console.log('obj', obj)
 //   "name": lucas
 // }
 
-node start xxx -- --port=5005 --name=lucas
+npm start xxx -- --port=5005 --name=lucas
 ```
