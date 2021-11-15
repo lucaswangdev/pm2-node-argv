@@ -1,0 +1,24 @@
+{
+  "name": "pm2-node-argv",
+  "version": "1.0.0",
+  "description": "pm2, node, npm script args",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaswangdev/pm2-node-argv.git"
+  },
+  "keywords": [
+    "pm2",
+    "node",
+    "npm",
+    "args"
+  ],
+  "author": "lucaswangdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucaswangdev/pm2-node-argv/issues"
+  },
+  "homepage": "https://github.com/lucaswangdev/pm2-node-argv#readme"
+}
