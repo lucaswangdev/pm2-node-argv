@@ -1,6 +1,6 @@
 {
   "name": "pm2-node-argv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "pm2, node, npm script args",
   "main": "index.js",
   "scripts": {
